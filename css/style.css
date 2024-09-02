@@ -1,0 +1,11 @@
+.romano{
+    list-style-type: upper-roman;
+}
+
+.quadrado{
+    list-style-type: square;
+}
+
+h1{
+    color: aqua;
+}
